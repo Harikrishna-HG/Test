@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#icon
+{
+    overflow:hidden;
+    height: 54px;
+    width: 54px;
+    border-radius: 54px;
+    margin:20px 20px;
+    
+}
+#nav {
+    background-color: black;
+    z-index: ;
+}

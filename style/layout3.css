@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#logo
+{
+    height: 50px;
+    background-color: rgb(226, 224, 221);
+    margin-bottom: 5px;
+}
+.h2
+{
+    margin-left: 20px;
+    padding-top:10px ;
+}
+.navigation
+{
+    height:600px;
+    text-transform: capitalize;
+    font-size: large;
+    width:25%;
+    background-color: rgb(226, 224, 221);
+    text-align: center;
+}
+.hb
+{
+    margin-left: 20px;
+    width: 100%;
+}
+.h{
+height: 200px;
+text-align: center;
+width:100%;
+background-color: rgb(226,224,221);
+margin-bottom: 10px;
+}
+.b{
+height: 390px;
+background-color: rgb(226, 224, 221);
+text-align: center;
+}
+.foot
+{
+    background-color: rgb(226, 224, 221);
+    height: 40px;
+}

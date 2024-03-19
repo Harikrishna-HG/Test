@@ -1,0 +1,78 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+#top
+{
+    background-color: aqua;
+    height: 50px;
+    display: flex;
+    margin-bottom: 7px;
+}
+.logo
+{
+    
+    margin:10px 20px;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+}
+.navi
+{
+   
+    height: 20px;
+    width:100px;
+    margin: 10px 150px;
+    position: absolute;
+   
+}
+.head
+{
+display:block;
+height:130px;
+background-color: aquamarine;
+text-align: center;
+padding-top: 70px;
+margin-bottom: 9px;
+}
+.ita
+{
+    height: 90px;
+    background-color: chartreuse;
+    text-align:center;
+    padding-top:40px;
+    margin-bottom: 13px;
+}
+.box
+{
+    display: flex;
+    height:250px;
+    margin-bottom: 10px;
+}
+.box1
+{
+    width:32%;
+    text-align: center;
+    background-color: rgb(225, 50, 50);
+    margin-right:30px ;
+}
+.box2
+{
+    width: 32%;
+    text-align: center;
+    background-color: rgb(249, 19, 19);
+    margin-right: 30px;
+}
+.box3
+{
+    width: 32%;
+    text-align:center;
+    background-color: rgb(220, 28, 28);
+}
+.foot
+{
+text-align: center;
+background-color: blue;
+height: 25px;
+}
